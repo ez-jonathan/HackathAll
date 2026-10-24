@@ -31,7 +31,10 @@ We engineered **HackathAll Project** using an agentic, speed-first architecture:
 - **Frontend & UI**: Next.js App Router, TypeScript, and Tailwind CSS with a modern dark slate aesthetic, fluid transitions, and accessible shadcn/ui primitives.
 - **Agent Orchestration**: Pair-programmed directly with autonomous agents using structured boundaries defined in `CLAUDE.md` and `.cursorrules`.
 - **Sponsor Integrations & Dual-Mode Fallbacks**:
-
+  - **Supabase**: PostgreSQL Database & Auth with automatic mock cascade fallback.
+  - **Twilio**: SMS & WhatsApp Comms with automatic mock cascade fallback.
+  - **Resend**: Modern Transactional Emails with automatic mock cascade fallback.
+  - **ElevenLabs**: Streaming AI Voice Synthesis with automatic mock cascade fallback.
 - **Automated Guardrails**:
   - `.coderabbit.yaml` tuned for high-speed hackathons (silencing pedantic nitpicks while flagging security leaks and broken routes).
   - `.github/GSD_SPEC.md` enforcing aggressive scope slashing to guarantee an on-time demo.
@@ -68,13 +71,9 @@ We engineered **HackathAll Project** using an agentic, speed-first architecture:
 ---
 
 ## 🏷️ Built With (Copy-Paste for Devpost Tags)
-`Next.js 15, TypeScript, Tailwind CSS, shadcn/ui, Claude Code, Antigravity Agent SDK, CodeRabbit, FastAPI`
+`Next.js 15, TypeScript, Tailwind CSS, shadcn/ui, Supabase, Twilio, Resend, ElevenLabs, Claude Code, Antigravity Agent SDK, CodeRabbit, FastAPI`
 
 ---
 
 ## 📦 Project Git Log Highlights
-- Initialized agent-native universal hackathon scaffold
-- Implemented fail-safe mock fallbacks for all sponsor APIs
-- Hydrated realistic fintech and biometric synthetic data
-- Integrated automated CodeRabbit PR audit and GSD scope slashing
-- Polished modern dark UI with 1-click judge presentation mode
+- feat: initialize HackathAll universal hackathon repository with agent guardrails and mock integrations

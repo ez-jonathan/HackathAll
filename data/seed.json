@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T10:31:14.930Z",
+  "generatedAt": "2026-10-24T10:36:34.446Z",
   "version": "1.0.0-hackathon-hydrated",
   "user": {
     "id": "usr_demo_judge_01",
@@ -43,8 +43,8 @@
         "amount": 142.5,
         "type": "debit",
         "status": "completed",
-        "date": "Oct 24, 03:01 PM",
-        "isoDate": "2026-10-24T09:31:14.855Z",
+        "date": "Oct 24, 03:06 PM",
+        "isoDate": "2026-10-24T09:36:34.403Z",
         "icon": "Cpu",
         "note": "Automated Agent Tier Billing"
       },
@@ -55,8 +55,8 @@
         "amount": 4850,
         "type": "credit",
         "status": "completed",
-        "date": "Oct 24, 12:01 PM",
-        "isoDate": "2026-10-24T06:31:14.925Z",
+        "date": "Oct 24, 12:06 PM",
+        "isoDate": "2026-10-24T06:36:34.442Z",
         "icon": "ArrowDownLeft",
         "note": "Daily Net Settlement (Batch #849)"
       },
@@ -67,8 +67,8 @@
         "amount": 49,
         "type": "debit",
         "status": "completed",
-        "date": "Oct 23, 02:01 PM",
-        "isoDate": "2026-10-23T08:31:14.925Z",
+        "date": "Oct 23, 02:06 PM",
+        "isoDate": "2026-10-23T08:36:34.442Z",
         "icon": "Database"
       },
       {
@@ -78,8 +78,8 @@
         "amount": 16.75,
         "type": "debit",
         "status": "completed",
-        "date": "Oct 23, 08:01 AM",
-        "isoDate": "2026-10-23T02:31:14.925Z",
+        "date": "Oct 23, 08:06 AM",
+        "isoDate": "2026-10-23T02:36:34.442Z",
         "icon": "Coffee",
         "note": "Sprint Fuel / Team Espresso"
       },
@@ -90,8 +90,8 @@
         "amount": 22,
         "type": "debit",
         "status": "completed",
-        "date": "Oct 22, 11:01 AM",
-        "isoDate": "2026-10-22T05:31:14.925Z",
+        "date": "Oct 22, 11:06 AM",
+        "isoDate": "2026-10-22T05:36:34.442Z",
         "icon": "Mic"
       },
       {
@@ -101,8 +101,8 @@
         "amount": 20,
         "type": "debit",
         "status": "completed",
-        "date": "Oct 21, 01:01 PM",
-        "isoDate": "2026-10-21T07:31:14.926Z",
+        "date": "Oct 21, 01:06 PM",
+        "isoDate": "2026-10-21T07:36:34.443Z",
         "icon": "Zap"
       },
       {
@@ -112,8 +112,8 @@
         "amount": 25000,
         "type": "credit",
         "status": "completed",
-        "date": "Oct 20, 09:01 AM",
-        "isoDate": "2026-10-20T03:31:14.926Z",
+        "date": "Oct 20, 09:06 AM",
+        "isoDate": "2026-10-20T03:36:34.443Z",
         "icon": "Building2",
         "note": "SAFE Note Tranche #1"
       }
@@ -137,84 +137,84 @@
     },
     "timeSeries": [
       {
-        "timestamp": "Oct 24, 04:01 AM",
+        "timestamp": "Oct 24, 04:06 AM",
         "heartRate": 68,
         "hrv": 69,
         "bloodOxygen": 99,
         "stressScore": 24
       },
       {
-        "timestamp": "Oct 24, 05:01 AM",
+        "timestamp": "Oct 24, 05:06 AM",
         "heartRate": 73,
         "hrv": 68,
         "bloodOxygen": 98,
         "stressScore": 39
       },
       {
-        "timestamp": "Oct 24, 06:01 AM",
+        "timestamp": "Oct 24, 06:06 AM",
         "heartRate": 78,
         "hrv": 65,
         "bloodOxygen": 99,
         "stressScore": 40
       },
       {
-        "timestamp": "Oct 24, 07:01 AM",
+        "timestamp": "Oct 24, 07:06 AM",
         "heartRate": 79,
         "hrv": 62,
         "bloodOxygen": 98,
         "stressScore": 26
       },
       {
-        "timestamp": "Oct 24, 08:01 AM",
+        "timestamp": "Oct 24, 08:06 AM",
         "heartRate": 78,
         "hrv": 57,
         "bloodOxygen": 99,
         "stressScore": 10
       },
       {
-        "timestamp": "Oct 24, 09:01 AM",
+        "timestamp": "Oct 24, 09:06 AM",
         "heartRate": 75,
         "hrv": 52,
         "bloodOxygen": 98,
         "stressScore": 6
       },
       {
-        "timestamp": "Oct 24, 10:01 AM",
+        "timestamp": "Oct 24, 10:06 AM",
         "heartRate": 69,
         "hrv": 47,
         "bloodOxygen": 99,
         "stressScore": 18
       },
       {
-        "timestamp": "Oct 24, 11:01 AM",
+        "timestamp": "Oct 24, 11:06 AM",
         "heartRate": 63,
         "hrv": 43,
         "bloodOxygen": 98,
         "stressScore": 35
       },
       {
-        "timestamp": "Oct 24, 12:01 PM",
+        "timestamp": "Oct 24, 12:06 PM",
         "heartRate": 58,
         "hrv": 40,
         "bloodOxygen": 99,
         "stressScore": 41
       },
       {
-        "timestamp": "Oct 24, 01:01 PM",
+        "timestamp": "Oct 24, 01:06 PM",
         "heartRate": 56,
         "hrv": 39,
         "bloodOxygen": 98,
         "stressScore": 31
       },
       {
-        "timestamp": "Oct 24, 02:01 PM",
+        "timestamp": "Oct 24, 02:06 PM",
         "heartRate": 56,
         "hrv": 39,
         "bloodOxygen": 99,
         "stressScore": 14
       },
       {
-        "timestamp": "Oct 24, 03:01 PM",
+        "timestamp": "Oct 24, 03:06 PM",
         "heartRate": 59,
         "hrv": 41,
         "bloodOxygen": 98,
@@ -227,14 +227,14 @@
         "severity": "info",
         "title": "Deep Recovery Peak Reached",
         "description": "REM sleep duration exceeded 2.2 hours with stable cardiopulmonary rhythm.",
-        "timestamp": "Oct 24, 12:01 PM"
+        "timestamp": "Oct 24, 12:06 PM"
       },
       {
         "id": "alt_02",
         "severity": "warning",
         "title": "Post-Workout Cortisol Spike",
         "description": "Vagal nerve tone modulation recommended. Hydration score index is at 84%.",
-        "timestamp": "Oct 23, 08:01 AM"
+        "timestamp": "Oct 23, 08:06 AM"
       }
     ]
   },
@@ -257,7 +257,7 @@
           "supabase_query",
           "twilio_sms_notify"
         ],
-        "timestamp": "Oct 24, 03:01 PM"
+        "timestamp": "Oct 24, 03:06 PM"
       },
       {
         "id": "trace_002",
@@ -270,7 +270,7 @@
           "vitals_analyzer",
           "resend_email_alert"
         ],
-        "timestamp": "Oct 24, 12:01 PM"
+        "timestamp": "Oct 24, 12:06 PM"
       },
       {
         "id": "trace_003",
@@ -282,7 +282,7 @@
         "toolsCalled": [
           "audio_stream_engine"
         ],
-        "timestamp": "Oct 23, 02:01 PM"
+        "timestamp": "Oct 23, 02:06 PM"
       }
     ],
     "sampleConversation": [
@@ -290,13 +290,13 @@
         "id": "msg_01",
         "sender": "user",
         "text": "Analyze my team runway and check if any clinical anomaly requires intervention today.",
-        "timestamp": "Oct 24, 12:01 PM"
+        "timestamp": "Oct 24, 12:06 PM"
       },
       {
         "id": "msg_02",
         "sender": "assistant",
         "text": "Analysis complete. Your team currently has **18.4 months of runway** with net positive cashflow ($25,639.20 net this week). On the biometrics telemetry, your recovery score is at **92% (Optimal)** with zero critical cardiovascular flags.",
-        "timestamp": "Oct 24, 03:01 PM",
+        "timestamp": "Oct 24, 03:06 PM",
         "structuredOutput": {
           "runwayMonths": 18.4,
           "cashflowStatus": "Strong Growth",
