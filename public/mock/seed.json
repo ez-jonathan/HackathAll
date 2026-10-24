@@ -1,0 +1,309 @@
+{
+  "generatedAt": "2026-10-24T10:31:14.930Z",
+  "version": "1.0.0-hackathon-hydrated",
+  "user": {
+    "id": "usr_demo_judge_01",
+    "name": "Dr. Sarah Lin",
+    "role": "Lead Judge & Principal Architect",
+    "company": "Apex Horizon Ventures",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "email": "judge.sarah@apexventures.io",
+    "isJudge": true,
+    "demoBypassToken": "demo_bypass_session_valid_2026"
+  },
+  "fintech": {
+    "overview": {
+      "totalBalance": 84320.45,
+      "monthlyIncome": 29850,
+      "monthlyExpenses": 4210.8,
+      "savingsRatePct": 85.9,
+      "currency": "USD"
+    },
+    "accounts": [
+      {
+        "id": "acc_primary",
+        "name": "Operating Checking",
+        "type": "Checking",
+        "balance": 34320.45,
+        "last4": "8821"
+      },
+      {
+        "id": "acc_treasury",
+        "name": "High-Yield Treasury",
+        "type": "Savings (5.2% APY)",
+        "balance": 50000,
+        "last4": "1094"
+      }
+    ],
+    "transactions": [
+      {
+        "id": "tx_9841",
+        "merchant": "Anthropic Claude API",
+        "category": "Software & Infrastructure",
+        "amount": 142.5,
+        "type": "debit",
+        "status": "completed",
+        "date": "Oct 24, 03:01 PM",
+        "isoDate": "2026-10-24T09:31:14.855Z",
+        "icon": "Cpu",
+        "note": "Automated Agent Tier Billing"
+      },
+      {
+        "id": "tx_9840",
+        "merchant": "Stripe Merchant Payout",
+        "category": "Revenue",
+        "amount": 4850,
+        "type": "credit",
+        "status": "completed",
+        "date": "Oct 24, 12:01 PM",
+        "isoDate": "2026-10-24T06:31:14.925Z",
+        "icon": "ArrowDownLeft",
+        "note": "Daily Net Settlement (Batch #849)"
+      },
+      {
+        "id": "tx_9839",
+        "merchant": "Supabase Enterprise",
+        "category": "Cloud Services",
+        "amount": 49,
+        "type": "debit",
+        "status": "completed",
+        "date": "Oct 23, 02:01 PM",
+        "isoDate": "2026-10-23T08:31:14.925Z",
+        "icon": "Database"
+      },
+      {
+        "id": "tx_9838",
+        "merchant": "Blue Bottle Coffee",
+        "category": "Food & Dining",
+        "amount": 16.75,
+        "type": "debit",
+        "status": "completed",
+        "date": "Oct 23, 08:01 AM",
+        "isoDate": "2026-10-23T02:31:14.925Z",
+        "icon": "Coffee",
+        "note": "Sprint Fuel / Team Espresso"
+      },
+      {
+        "id": "tx_9837",
+        "merchant": "ElevenLabs Voice Engine",
+        "category": "AI Tooling",
+        "amount": 22,
+        "type": "debit",
+        "status": "completed",
+        "date": "Oct 22, 11:01 AM",
+        "isoDate": "2026-10-22T05:31:14.925Z",
+        "icon": "Mic"
+      },
+      {
+        "id": "tx_9836",
+        "merchant": "Vercel Pro Deployment",
+        "category": "Hosting & CDN",
+        "amount": 20,
+        "type": "debit",
+        "status": "completed",
+        "date": "Oct 21, 01:01 PM",
+        "isoDate": "2026-10-21T07:31:14.926Z",
+        "icon": "Zap"
+      },
+      {
+        "id": "tx_9835",
+        "merchant": "Angel Investor Wire",
+        "category": "Investment Capital",
+        "amount": 25000,
+        "type": "credit",
+        "status": "completed",
+        "date": "Oct 20, 09:01 AM",
+        "isoDate": "2026-10-20T03:31:14.926Z",
+        "icon": "Building2",
+        "note": "SAFE Note Tranche #1"
+      }
+    ]
+  },
+  "health": {
+    "patient": {
+      "id": "pt_9024",
+      "fullName": "Alex Vance",
+      "age": 29,
+      "bloodType": "O+",
+      "sleepScore": 92,
+      "recoveryStatus": "Optimal"
+    },
+    "liveVitals": {
+      "heartRateBpm": 72,
+      "hrvMs": 64,
+      "oxygenSaturationPct": 99,
+      "bodyTempCelsius": 36.6,
+      "respiratoryRateRpm": 14
+    },
+    "timeSeries": [
+      {
+        "timestamp": "Oct 24, 04:01 AM",
+        "heartRate": 68,
+        "hrv": 69,
+        "bloodOxygen": 99,
+        "stressScore": 24
+      },
+      {
+        "timestamp": "Oct 24, 05:01 AM",
+        "heartRate": 73,
+        "hrv": 68,
+        "bloodOxygen": 98,
+        "stressScore": 39
+      },
+      {
+        "timestamp": "Oct 24, 06:01 AM",
+        "heartRate": 78,
+        "hrv": 65,
+        "bloodOxygen": 99,
+        "stressScore": 40
+      },
+      {
+        "timestamp": "Oct 24, 07:01 AM",
+        "heartRate": 79,
+        "hrv": 62,
+        "bloodOxygen": 98,
+        "stressScore": 26
+      },
+      {
+        "timestamp": "Oct 24, 08:01 AM",
+        "heartRate": 78,
+        "hrv": 57,
+        "bloodOxygen": 99,
+        "stressScore": 10
+      },
+      {
+        "timestamp": "Oct 24, 09:01 AM",
+        "heartRate": 75,
+        "hrv": 52,
+        "bloodOxygen": 98,
+        "stressScore": 6
+      },
+      {
+        "timestamp": "Oct 24, 10:01 AM",
+        "heartRate": 69,
+        "hrv": 47,
+        "bloodOxygen": 99,
+        "stressScore": 18
+      },
+      {
+        "timestamp": "Oct 24, 11:01 AM",
+        "heartRate": 63,
+        "hrv": 43,
+        "bloodOxygen": 98,
+        "stressScore": 35
+      },
+      {
+        "timestamp": "Oct 24, 12:01 PM",
+        "heartRate": 58,
+        "hrv": 40,
+        "bloodOxygen": 99,
+        "stressScore": 41
+      },
+      {
+        "timestamp": "Oct 24, 01:01 PM",
+        "heartRate": 56,
+        "hrv": 39,
+        "bloodOxygen": 98,
+        "stressScore": 31
+      },
+      {
+        "timestamp": "Oct 24, 02:01 PM",
+        "heartRate": 56,
+        "hrv": 39,
+        "bloodOxygen": 99,
+        "stressScore": 14
+      },
+      {
+        "timestamp": "Oct 24, 03:01 PM",
+        "heartRate": 59,
+        "hrv": 41,
+        "bloodOxygen": 98,
+        "stressScore": 6
+      }
+    ],
+    "aiClinicalAlerts": [
+      {
+        "id": "alt_01",
+        "severity": "info",
+        "title": "Deep Recovery Peak Reached",
+        "description": "REM sleep duration exceeded 2.2 hours with stable cardiopulmonary rhythm.",
+        "timestamp": "Oct 24, 12:01 PM"
+      },
+      {
+        "id": "alt_02",
+        "severity": "warning",
+        "title": "Post-Workout Cortisol Spike",
+        "description": "Vagal nerve tone modulation recommended. Hydration score index is at 84%.",
+        "timestamp": "Oct 23, 08:01 AM"
+      }
+    ]
+  },
+  "agent": {
+    "copilotState": {
+      "status": "idle",
+      "activeModel": "claude-3-7-sonnet-streaming",
+      "autonomousMode": true,
+      "totalTasksCompleted": 42
+    },
+    "recentTraces": [
+      {
+        "id": "trace_001",
+        "task": "Real-time Autonomous Arbitrage & Balance Rebalance",
+        "status": "success",
+        "durationMs": 412,
+        "tokensUsed": 1240,
+        "model": "claude-3-7-sonnet",
+        "toolsCalled": [
+          "supabase_query",
+          "twilio_sms_notify"
+        ],
+        "timestamp": "Oct 24, 03:01 PM"
+      },
+      {
+        "id": "trace_002",
+        "task": "Biometric Anomaly Detection & Clinical Triage",
+        "status": "success",
+        "durationMs": 289,
+        "tokensUsed": 890,
+        "model": "gemini-1.5-flash",
+        "toolsCalled": [
+          "vitals_analyzer",
+          "resend_email_alert"
+        ],
+        "timestamp": "Oct 24, 12:01 PM"
+      },
+      {
+        "id": "trace_003",
+        "task": "Voice Query Synthesizer (ElevenLabs)",
+        "status": "success",
+        "durationMs": 310,
+        "tokensUsed": 420,
+        "model": "eleven-multilingual-v2",
+        "toolsCalled": [
+          "audio_stream_engine"
+        ],
+        "timestamp": "Oct 23, 02:01 PM"
+      }
+    ],
+    "sampleConversation": [
+      {
+        "id": "msg_01",
+        "sender": "user",
+        "text": "Analyze my team runway and check if any clinical anomaly requires intervention today.",
+        "timestamp": "Oct 24, 12:01 PM"
+      },
+      {
+        "id": "msg_02",
+        "sender": "assistant",
+        "text": "Analysis complete. Your team currently has **18.4 months of runway** with net positive cashflow ($25,639.20 net this week). On the biometrics telemetry, your recovery score is at **92% (Optimal)** with zero critical cardiovascular flags.",
+        "timestamp": "Oct 24, 03:01 PM",
+        "structuredOutput": {
+          "runwayMonths": 18.4,
+          "cashflowStatus": "Strong Growth",
+          "clinicalRisk": "Nominal",
+          "actionSuggested": "Ready for live presentation demo."
+        }
+      }
+    ]
+  }
+}

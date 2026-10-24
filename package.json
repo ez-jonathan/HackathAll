@@ -1,0 +1,30 @@
+{
+  "name": "hackathall-universal-starter",
+  "version": "1.0.0",
+  "description": "Universal hackathon starter repository engineered for speed-to-demo, zero friction, and autonomous AI agents.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "mock": "cross-env NEXT_PUBLIC_MOCK_MODE=true next dev",
+    "seed": "node --experimental-strip-types scripts/seed-demo-data.ts",
+    "devpost": "node scripts/generate-devpost.js",
+    "record": "bash scripts/record-demo.sh",
+    "audit": "node tools/audit-judge.js",
+    "sync:fullstack": "bash scripts/sync-tools.sh fullstack",
+    "sync:fastapi": "bash scripts/sync-tools.sh fastapi",
+    "sync:shadcn": "bash scripts/sync-tools.sh shadcn"
+  },
+  "keywords": [
+    "hackathon",
+    "speed-to-demo",
+    "ai-agent",
+    "claude-code",
+    "antigravity",
+    "coderabbit",
+    "gsd"
+  ],
+  "author": "HackathAll Architect",
+  "license": "MIT"
+}

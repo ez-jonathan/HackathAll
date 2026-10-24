@@ -1,0 +1,12 @@
+# .cursorrules - Universal Hackathon Agent Invariants
+# Configured for Cursor, Codex, Copilot, Windsurf & Autonomous LLM Agents
+
+- Always prioritize Speed-to-Demo over architectural perfection. The sole goal is a working, visually stellar 3-minute judge demo.
+- Maintain strict Happy Path focus: no edge-case auth bloat, no unneeded settings pages, no billing logic.
+- Always provide a 1-click "Demo Mode" / "Fill Sample Data" button that bypasses login barriers and populates realistic data.
+- Ensure fail-safe mock fallbacks for all external integrations (LLMs, databases, APIs) toggled via `NEXT_PUBLIC_MOCK_MODE=true` or missing API keys.
+- Ensure high-contrast, modern dark UI styling by default using Tailwind CSS, subtle borders (`border-white/10`), and Lucide React icons.
+- Never show blank empty states; always supply animated skeleton loaders (`animate-pulse`) for asynchronous states.
+- Bound agent actions: state the 1-3 target files before editing, and verify builds with `npm run build` or `npm run lint`.
+- Keep `pitch/DEMO_SCRIPT.md` and `presentation/PITCH_PLAYBOOK.md` updated when UI flows or routes change.
+- Refer to `CLAUDE.md` for comprehensive conventions and the 24-hour countdown playbook.
